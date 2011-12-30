@@ -5,7 +5,7 @@
 
     <groupId>eu.vitaliy</groupId>
     <artifactId>java6se-spring3-archetype</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>maven-archetype</packaging>
 
     <name>java6se-spring3-archetype</name>
