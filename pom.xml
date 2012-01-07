@@ -21,7 +21,7 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/VitaliyOliynyk/java6se-spring3-archetype.git</url>
+        <url>scm:git:https://github.com/VitaliyOliynyk/java6se-spring3-archetype.git</url>
         <connection>https://github.com/VitaliyOliynyk/java6se-spring3-archetype.git</connection>
     </scm>
     <developers>
