@@ -29,7 +29,7 @@
     <scm>
         <url>git@github.com:VitaliyOliynyk/java6se-spring3-archetype.git</url>
         <connection>scm:git:git@github.com:VitaliyOliynyk/java6se-spring3-archetype.git</connection>
-        <developerConnection>git@github.com:VitaliyOliynyk/java6se-spring3-archetype.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:VitaliyOliynyk/java6se-spring3-archetype.git</developerConnection>
     </scm>
     <developers>
         <developer>
