@@ -14,12 +14,12 @@ Features
 
 Profiles
 --------
-- test-integrate activated to run the tests contained in the test-integrate.
+- test-integrate activated to run the tests contained in the test-integrate directory.
 Usage:
 <pre>mvn test -Ptest-integrate</pre>
 - dist to create an application package in the directory target/dist together with libraries. Usage:
 <pre>mvn package -Pdist</pre>
-- win32-native-exec (should used with dist profile) for create native windows exe file. Usage:
+- win32-native-exec (should be used with dist profile) for create native windows exe file. Usage:
 <pre>mvn package -Pdist,win32-native-exec</pre>
 
 Usage
