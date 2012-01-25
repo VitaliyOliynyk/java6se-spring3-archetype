@@ -1,6 +1,6 @@
 Java SE 6 Spring 3 Archetype
 ============================
-This project aims to create Java EE 6 Spring 3.1 Archetype archetype to allow developers to easily jumpstart Maven projects.
+This project aims to create Java EE 6 Spring 3.1 Archetype to allow developers to easily jumpstart Maven projects.
 
 Features
 --------
